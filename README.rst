@@ -1,3 +1,13 @@
+**Statistical models with neuroimaging context**
+
+This is a development fork of `BrainStat <https://github.com/MICA-MNI/BrainStat>`__, a toolbox for statistical analysis and context decoding of neuroimaging data. Upstream supports linear models for surface, volume, and parcel data, with Python and MATLAB interfaces and links to brain-atlas resources. It is useful for connecting spatial statistical results with anatomical and biological context.
+
+**Contribution to review:** `PR #385 <https://github.com/MICA-MNI/BrainStat/pull/385>`__ proposes publishing downloaded data only after a successful copy.
+
+Start with the `official documentation <https://brainstat.readthedocs.io>`__ for installation, model examples, and decoding workflows. The upstream overview and credits are preserved below. See the `branch comparison <https://github.com/MICA-MNI/BrainStat/compare/master...jdotc1:master>`__ for the default branch's relationship to the original project.
+
+----
+
 BrainStat : A toolbox for statistical analysis of neuroimaging data
 ===================================================================
 
